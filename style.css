@@ -97,6 +97,21 @@ footer{
     padding: 20px;
     font-style: italic;
 }
+.singleTeam{
+    width: 25%;
+    padding: 10px;
+   
+    text-align: center;
+}
+.singleTeam img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.singleTeam p{
+    text-align: center;
+}
+
 footer h1{
     margin: 0;
 }
