@@ -1,0 +1,102 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+.text{
+    color: slategray;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.top-image{
+  
+   margin-left: 10%;
+    width: 80%;
+   
+}
+.left-border{
+    border-left:3px solid orangered ;
+   padding-left: 5px;
+  
+}
+.left-border h1{
+    margin: 0;
+}
+
+.btn{
+    text-decoration: none;
+    border: 1px solid orangered;
+    background: orangered;
+    color:white;
+  border-radius: 3px;
+  padding: 5px 10px;
+
+}
+section{
+    margin: 60px auto;
+    width: 80%;
+   
+}
+.orange{
+    color: orange;
+}
+.faxible{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.focused-area{
+    margin-top: 80px;
+}
+.mission-title{
+    text-align: center;
+}
+.single-item{
+    width: 33.33%;
+    text-align: left;
+    padding: 15px;
+    margin: 10px;
+    
+    border-radius: 10px;
+}
+.mission{
+    background-color:rgb(189, 220, 250);
+}
+.vission{
+    background-color:rgb(122, 235, 250);
+}
+
+.goals{
+    background-color:rgb(161, 243, 212);
+}
+
+.single-item img{
+    width: 40%;
+}
+.developer-img{
+    width: 40%;
+}
+.developer-img img{
+    width: 80%;
+}
+.developer-content{
+    width: 60%;
+    padding: 25px;
+}
+.developer-content h1{
+    margin: 0;
+}
+footer{
+    background-color: rgb(10, 9, 9);
+    text-align: center;
+    color: blanchedalmond;
+    padding: 20px;
+    font-style: italic;
+}
+footer h1{
+    margin: 0;
+}
